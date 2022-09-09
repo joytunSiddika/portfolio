@@ -23,13 +23,14 @@
         <!-- Template Stylesheet -->
         <link rel="stylesheet" type="text/css" href="style.css" />
         <link href="C:/xampp/htdocs/mim/css/style.css" rel="stylesheet">
+        <link href="C:/mim/hire.php" rel="stylesheet">
     </head>
 
     <body data-spy="scroll" data-target=".navbar" data-offset="51">
         <!-- Nav Bar Start -->
         <div class="navbar navbar-expand-lg bg-light navbar-light">
             <div class="container-fluid">
-                <a href="index.html" class="navbar-brand">Portfolio</a>
+                <a href="index.php" class="navbar-brand">Portfolio</a>
                 <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -60,7 +61,7 @@
                                 <div class="typed-text">Web Designer, Web Developer, Front End Developer, Apps Designer, Apps Developer</div>
                             </div>
                             <div class="hero-btn">
-                                <a class="btn" href="">Hire Me</a>
+                                <a href="hire.php" class="btn" href="">Hire Me</a>
                                 <a class="btn" href="">Contact Me</a>
                             </div>
                         </div>
